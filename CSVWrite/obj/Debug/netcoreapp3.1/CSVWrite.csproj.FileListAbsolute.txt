@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.exe
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.deps.json
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.runtimeconfig.json
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.dll
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CSVWrite.pdb
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.csproj.CopyComplete
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.dll
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.pdb
+C:\Users\lucas\Desktop\CSVConsole\CSV\CSVWrite\obj\Debug\netcoreapp3.1\CSVWrite.genruntimeconfig.cache

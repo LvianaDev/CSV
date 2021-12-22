@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TqR/pZBjUE+su/bDl7HiGeSDiKCCWg32DXDqSkal0+ZTu/g3IyxvU5RwwCwYHtxEo4J1+AP60sjry9TnGc+ug==",
+  "dgSpecHash": "vTq3Lejd4cS6tG3TdXbBsbm8fQVkDhPuX3egG4AMOX1VZuuld75iInsraoYek8E5j/ap4dKCZf8JCBfWGUtw+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\CSV Console\\CSV\\CSV\\CSVRead.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\CSVConsole\\CSV\\CSV\\CSVRead.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
