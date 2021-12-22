@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.exe
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.deps.json
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.json
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.dll
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CopyComplete
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.dll
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\lucas\Desktop\CSV Console\CSV\CSV\obj\Debug\netcoreapp3.1\CSV.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVRead", "CSV\CSVRead.csproj", "{0C6DB28F-290B-419D-BDB8-E6EDB01F853A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVWrite", "CSVWrite\CSVWrite.csproj", "{E5FE8087-AB0F-4AF8-AB48-2B64B761CD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6DB28F-290B-419D-BDB8-E6EDB01F853A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6DB28F-290B-419D-BDB8-E6EDB01F853A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6DB28F-290B-419D-BDB8-E6EDB01F853A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6DB28F-290B-419D-BDB8-E6EDB01F853A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FE8087-AB0F-4AF8-AB48-2B64B761CD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FE8087-AB0F-4AF8-AB48-2B64B761CD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FE8087-AB0F-4AF8-AB48-2B64B761CD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FE8087-AB0F-4AF8-AB48-2B64B761CD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B33681-0C95-4682-BB7E-50D805E4726F}
+	EndGlobalSection
+EndGlobal
