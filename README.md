@@ -10,6 +10,3 @@ O primeiro passo para utilizá-lo é a instalação através do pacote NuGet dis
 Para instalar utilizando o Package Manager Console:
 
 ### Install-Package CsvHelper
-Para instalar utilizando a .NET CLI:
-
-### dotnet add package CsvHelper
